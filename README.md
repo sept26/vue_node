@@ -5,5 +5,5 @@ npm install
 front_end
 npm run dev
 
-serve
+server
 npm start
