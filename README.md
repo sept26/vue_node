@@ -1,9 +1,9 @@
 # vue_node
-# install dependencies
+install dependencies
 npm install
 
-# front_end
+front_end
 npm run dev
 
-# serve
+serve
 npm start
